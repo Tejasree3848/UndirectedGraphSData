@@ -9,5 +9,5 @@ Java ,maven
 Junit
 
 # runnable File:
-GraphTest.java
+GraphTests.java
 
